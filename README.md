@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Deep Learning, Natural Language Processing and Neural Network
 - 📫 How to reach me sunnydevra27052000@gmail.com 
 
+https://www.kaggle.com/shanidevra
 
 <!---
 Shanidevra/Shanidevra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
