@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shanidevra
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Deep Learning
-- 📫 How to reach me sunnydevra27052000@gmail.com , @sunny.singh.devra
+- 📫 How to reach me sunnydevra27052000@gmail.com 
 
 
 <!---
