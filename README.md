@@ -1,61 +1,117 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF6B8B&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Shani+Devra;I'm+an+AI%2FML+Developer+passionate+about+Conversational+AI;Building+real-world+chatbots+that+work+at+scale;Always+learning+and+innovating+in+AI+and+Machine+Learning;Let's+build+intelligent+solutions+together!)](https://git.io/typing-svg)
-
-<h1 align="center">🚀 Navigating Data Frontiers, Harnessing the Power of AI</h1>
-
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JrbjNsdXludWJmYjNtd3JqZzI2ZWVvZGM2cng1aTJ5em50ZmdlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI/ML Animation" />
+  <img src="pannel.html" alt="AI/ML Developer Banner" width="100%">
 </div>
 
----
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+  Hi, I'm <img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Shani's GitHub Avatar" width="60px"/> Shani Devra
+  <img align="right" src="https://komarev.com/ghpvc/?username=shanidevra" alt="GitHub profile views counter">
+</h1>
 
-## 🌟 About Me
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="AI Developer animation"/>
+</div>
 
-I'm an **AI/ML & Python Developer** passionate about building **real-world conversational AI systems** — from chatbots to voice bots that work at scale. I enjoy going deep into system-level logic, understanding how things work internally, and writing clean, production-ready code rather than just demos.
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Building AI like it's 2050, but debugging like it's 1999.</div> 
 
-- 🔭 **Currently Working On:** AI Chatbot Development using modern RAG techniques with production-grade architecture
-- 🌱 **Currently Learning:** Advanced Deep Learning, NLP, MLOps & Cloud Infrastructure for AI
-- 💬 **Ask me about:** Python, Machine Learning, Chatbot Development, and AI system design
-- 📫 **How to reach me:** [Portfolio](https://shanidevra.github.io) | [LinkedIn](https://linkedin.com/in/shani-devra-467a20263)
-- ⚡ **Fun fact:** I believe the best AI systems are built with both code and curiosity! 🔍
+<ul>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Asia" width="25px" align="center" /> AI/ML Developer passionate about <strong>Conversational AI</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://shanidevra.github.io" target="_blank"><strong>Portfolio</strong></a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:sunnydevra27052000@gmail.com"><strong>sunnydevra27052000@gmail.com</strong></a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medal Emoji" width="25px" align="center" /> Currently building <strong>AI Chatbots with RAG architecture</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>Deep Learning & NLP</strong> for smarter AI systems
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>cutting-edge ML research</strong>
+  </li>
+</ul>
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanidevra/shanidevra/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shanidevra/shanidevra/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shanidevra/shanidevra/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
-## 🛠️ Tech Stack
+## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Connect & Collaborate:</div>
 
-### 🤖 **AI/ML & Data Science**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shani-devra-467a20263) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Explore%20Projects-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shanidevra)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shanidevra/)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
-### 🚀 **Backend & DevOps**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="30px" align="center" alt="Microscope Emoji" /> AI/ML Research Arsenal:</div>
 
-### 🗄️ **Databases**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🤖 **Core Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 
-### 🔧 **Tools & Utilities**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 📊 **Data Science & Analysis**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
----
+### 🚀 **Backend & Deployment**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## 📊 GitHub Stats
+### 🗄️ **Databases & Storage**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
+### 🔧 **Development Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
+<br/>
+
+![AI Animation](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
+
+## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" align="center" alt="Chart Emoji" /> GitHub Analytics:</div>
+
+<div align="center" >
+    <a href="https://github.com/shanidevra">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanidevra&theme=radical" width="49%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanidevra&theme=radical&utcOffset=5.5" width="49%">
+    </a>
+</div>
+
+<div align="center" >
+    <a href="https://github.com/shanidevra">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanidevra&theme=radical" width="49%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanidevra&theme=radical" width="49%">
+    </a>
+</div>
 
 <div align="center">
   
@@ -65,57 +121,53 @@ I'm an **AI/ML & Python Developer** passionate about building **real-world conve
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30px" align="center" alt="Trophy Emoji" /> GitHub Trophies:</div>
 
 ![](https://github-profile-trophy.vercel.app/?username=shanidevra&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
 
----
+## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="30px" align="center" alt="Fire Emoji" /> Featured AI Projects:</div>
 
-## 🔗 Connect With Me
+### 🤖 **Intelligent Chatbot Systems**
+- **RAG-powered Conversational AI**: Advanced chatbots with retrieval-augmented generation
+- **NLP Intent Recognition**: Machine learning models for natural language understanding
+- **Multi-modal AI Agents**: Combining text, voice, and visual processing
+
+### 📈 **ML Ops & Production Pipelines**
+- **End-to-end ML Solutions**: From data preprocessing to model deployment
+- **Model Monitoring Systems**: Real-time performance tracking and alerting
+- **Automated Training Pipelines**: CI/CD for machine learning models
+
+### 🔧 **Developer AI Tools**
+- **Code Generation Assistants**: AI-powered coding helpers and productivity tools
+- **Data Analysis Automation**: Scripts for streamlined ML workflow
+- **Model Visualization Tools**: Interactive interfaces for model interpretation
+
+## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30px" align="center" alt="Sparkles Emoji" /> Currently Exploring:</div>
+
+- 🔭 **Advanced RAG Architectures** for better conversational AI
+- 🌱 **Large Language Models** fine-tuning and optimization
+- 💡 **Reinforcement Learning** for adaptive AI systems
+- 🚀 **MLOps Best Practices** for scalable AI deployments
+- 🔍 **Explainable AI (XAI)** for transparent machine learning
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shani-devra-467a20263)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shanidevra)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shanidevra/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sunny.singh.devra)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnydevra27052000@gmail.com)
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30010100/sunny-singh-devra)
+  ![Profile Views](https://komarev.com/ghpvc/?username=shanidevra&label=AI%20Explorer%20Visits&color=FF6B8B&style=for-the-badge)
+  ![GitHub Followers](https://img.shields.io/github/followers/shanidevra?label=Code%20Collaborators&style=for-the-badge&color=FF6B8B)
+  
+  <br/>
+  
+  <a href="https://github.com/shanidevra" target="_blank">
+    <img align="center" src="https://img.icons8.com/material-outlined/24/FF6B8B/github.png" alt="GitHub Icon">
+    <strong>Explore more AI projects on GitHub</strong>
+  </a>
   
 </div>
 
 ---
 
-## 🐍 Contribution Graph
-
-[![Shani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shanidevra&theme=react-dark&bg_color=0d1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🎯 Featured Projects
-
-### 🤖 **AI Chatbot Systems**
-Advanced conversational AI with NLP-based intent understanding and modern RAG implementations.
-
-### 📈 **Machine Learning Pipelines**
-End-to-end ML solutions from data preprocessing to model deployment and monitoring.
-
-### 🔧 **Developer Tools & Utilities**
-Automation scripts and productivity tools for streamlined AI development workflows.
-
-### 🧠 **Learning Projects**
-Implementations of cutting-edge ML papers and algorithms in Python.
-
----
-
-
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=shanidevra&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-  ![GitHub Followers](https://img.shields.io/github/followers/shanidevra?label=Follow&style=social)
-  
-  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" width="20px" alt="Key Emoji"/>
+  <em>"Transforming data into intelligent conversations, one algorithm at a time."</em>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" width="20px" alt="Key Emoji"/>
 </div>
