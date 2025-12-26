@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="pannel.html" alt="AI/ML Developer Banner" width="100%">
-</div>
+<p align="center">
+  <img src="banner.svg" alt="AI/ML Developer Banner" width="100%" />
+</p>
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
