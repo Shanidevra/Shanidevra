@@ -35,13 +35,7 @@
   </li>
 </ul>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanidevra/shanidevra/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shanidevra/shanidevra/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shanidevra/shanidevra/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Connect & Collaborate:</div>
 
@@ -99,19 +93,7 @@
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" align="center" alt="Chart Emoji" /> GitHub Analytics:</div>
 
-<div align="center" >
-    <a href="https://github.com/shanidevra">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanidevra&theme=radical" width="49%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanidevra&theme=radical&utcOffset=5.5" width="49%">
-    </a>
-</div>
 
-<div align="center" >
-    <a href="https://github.com/shanidevra">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanidevra&theme=radical" width="49%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanidevra&theme=radical" width="49%">
-    </a>
-</div>
 
 <div align="center">
   
@@ -125,7 +107,9 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=shanidevra&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="30px" align="center" alt="Fire Emoji" /> Featured AI Projects:</div>
+
+## 🔥 Featured AI Projects
+
 
 ### 🤖 **Intelligent Chatbot Systems**
 - **RAG-powered Conversational AI**: Advanced chatbots with retrieval-augmented generation
@@ -142,7 +126,8 @@
 - **Data Analysis Automation**: Scripts for streamlined ML workflow
 - **Model Visualization Tools**: Interactive interfaces for model interpretation
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30px" align="center" alt="Sparkles Emoji" /> Currently Exploring:</div>
+## ✨ Currently Exploring
+
 
 - 🔭 **Advanced RAG Architectures** for better conversational AI
 - 🌱 **Large Language Models** fine-tuning and optimization
